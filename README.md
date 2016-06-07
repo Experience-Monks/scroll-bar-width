@@ -12,9 +12,7 @@ scrollBarWidth.init();
 // get the width
 var width = scrollBarWidth.get();
 
-console.log(width) // ----> 25px for Windows
-
-[tests](http://github.com/Jam3/scroll-bar-width/blob/master/test).
+console.log(width) // ----> 25px on Windows
 ```
 
 ## Install
