@@ -1,5 +1,5 @@
 {
-  "name": "scrollbar-width",
+  "name": "scroll-bar-width",
   "version": "0.0.1",
   "description": "Detect browser scroll bar width.",
   "main": "index.js",
@@ -17,14 +17,14 @@
   },
   "keywords": [
     "scroll-bar",
-    "scrollbar-width"
+    "scroll-bar-width"
   ],
   "repository": {
     "type": "git",
-    "url": "git:github.com/Jam3/scrollbar-width.git"
+    "url": "git:github.com/Jam3/scroll-bar-width.git"
   },
-  "homepage": "https://github.com/Jam3/scrollbar-width",
+  "homepage": "https://github.com/Jam3/scroll-bar-width",
   "bugs": {
-    "url": "https://github.com/Jam3/scrollbar-width/issues"
+    "url": "https://github.com/Jam3/scroll-bar-width/issues"
   }
 }
