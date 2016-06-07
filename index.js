@@ -2,7 +2,7 @@ var scrollBarWidth;
 
 module.exports = {
 
-  init() {
+  init: function () {
     const scrollDiv = document.createElement('div');
     scrollDiv.style.width = '100px';
     scrollDiv.style.height = '100px';
@@ -14,7 +14,7 @@ module.exports = {
     document.body.removeChild(scrollDiv);
   },
 
-  get() {
+  get: function () {
     return scrollBarWidth;
   }
 };
