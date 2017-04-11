@@ -1,6 +1,6 @@
 {
   "name": "scroll-bar-width",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Detect browser scroll bar width.",
   "main": "index.js",
   "license": "MIT",
